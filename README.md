@@ -7,7 +7,9 @@ Just like simple linear regression it is also used as a predictive analysis, the
 
 ## The model for MLR, given n observations, is:
 
+```
 Yi = B0 + B1xi1 + B2xi2 + ... + Bpxip + E where i = 1,2, ..., n
+```
 
 Where yi = dependent variable
 
